@@ -67,7 +67,7 @@ This section presents the important findings obtained from the analysis.
 
 The project includes an Excel dashboard presenting the key HR metrics and visualizations.
 
-![HR Dashboard](Visualizations/HR_Dashboard.png)
+![HR Dashboard](Visualizations/dashboard.png)
 
 ## 9. Recommendations
 
